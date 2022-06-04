@@ -1,0 +1,20 @@
+body {
+    background-image: url('background.jpg');
+  }
+
+.mb-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.selection {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;  
+}
+
+.tabletop {
+    background-color: #e5e5e5;
+    padding: 15px;
+}
+
